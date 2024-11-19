@@ -1,0 +1,9 @@
+name: pymrio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - pymrio=0.5.4
